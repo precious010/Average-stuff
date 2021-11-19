@@ -38,11 +38,14 @@ class PrintGrade {
         a[i] = input.nextInt();
          sum = sum + a[i];
         myWriter.write(System.getProperty("line.separator"));
-        myWriter.write(Integer.toString(a[i]));
+        myWriter.write("Your mark is: "+Integer.toString(a[i])+ "%");
       }
 
      average = sum/(double) n; 
       System.out.println("Your average is: " + df.format(average) + "%" );
+
+       myWriter.write(System.getProperty("line.separator"));
+      myWriter.write("Your average mark is: "+ average +"%");
 
       myWriter.close();
     } catch (IOException e) {
