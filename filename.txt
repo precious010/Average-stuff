@@ -1,9 +1,32 @@
+Student Name: Precious
+Student ID: 1234565
+Number of courses taken this semester: 2
 
-
-Hi67
-Hi88
-Your mark is: 66%
-Your mark is: 88%Your average mark is: 77.0
-Your mark is: 88%
 Your mark is: 99%
+Your mark is: 88%
+Your average mark is: 93.5%
+
+Student Name: bob
+Student ID: 246810
+Number of courses taken this semester: 3
+
+Your mark is: 79%
+Your mark is: 90%
+Your mark is: 100%
+Your average mark is: 89.66666666666667%
+
+
+Student Name: precious
+Student ID: 134
+Number of courses taken this semester: 2
+
+Your mark is: 99%
+Your mark is: 77%
+Your average mark is: 88.0%
+Student Name: PRECIOUS
+Student ID: 1234567890
+Number of courses taken this semester: 2
+
+Your mark is: 99%
+Your mark is: 88%
 Your average mark is: 93.5%
